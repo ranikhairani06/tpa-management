@@ -1,0 +1,23 @@
+# Konfigurasi database
+
+includes/config.php
+
+# Folder VS Code
+
+.vscode/
+
+# File log
+
+*.log
+
+# Cache
+
+.cache/
+
+# Sistem operasi Windows
+
+Thumbs.db
+
+# Sistem operasi Mac
+
+.DS_Store
